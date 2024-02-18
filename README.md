@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-## 💫 About Me:
-🔭 **I’m currently working on:**  <br>Developing application that provide Banking Solutions<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Nodejs, React, HLD, LLD<br><br>💬 **Ask me about:**  <br>JavaScript, React, Machine Learning, Deep Learning, GATE Computer Science, DSA, C++<br>
+
+<h3>💫 About Me:</h3>
+🔭 I’m currently working on:  <br>Developing application that provide Banking Solutions<br><br>👯 I’m looking to collaborate on:  <br>Fullstack projects<br><br>🌱 I’m currently learning:  <br>Nodejs, React, HLD, LLD<br><br>💬 Ask me about:  <br>JavaScript, React, Machine Learning, Deep Learning, GATE Computer Science, DSA, C++<br>
 
 
 ## 🌐 Socials:
