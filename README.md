@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 
 <h3>💫 About Me:</h3>
-💻 Application Developer at Oracle Financial Services | ✨ GATE'2021 AIR 575 |🎓 MTech, National Institute of Technology Karnataka, Surathkal
+💻 Application Developer at Oracle Financial Services | ✨ GATE'2021 AIR 575 |🎓 MTech NITK, Surathkal
+
 
 🔭 **I’m currently working on:**  <br>Developing applications that provide Banking Solutions<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Nodejs, React, HLD, LLD<br><br>💬 **Languages:**  <br>C, C++, Java, JavaScript, Python, HTML, CSS<br>
 
